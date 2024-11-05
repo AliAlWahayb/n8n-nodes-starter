@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-arabictext",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n custom node for adding text to images with Arabic text support",
   "keywords": [
     "n8n",
